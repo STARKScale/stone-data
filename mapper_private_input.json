@@ -1,6 +1,6 @@
 {
-  "trace_path": "/Users/felixmeng/Desktop/cairo-vm/my_cairo/map/memTrace/mapper_trace.json",
-  "memory_path": "/Users/felixmeng/Desktop/cairo-vm/my_cairo/map/memTrace/mapper_memory.json",
+  "trace_path": "/app/stone-data/mapper_trace.json",
+  "memory_path": "/app/stone-data/mapper_memory.json",
   "pedersen": [],
   "range_check": [
     {
